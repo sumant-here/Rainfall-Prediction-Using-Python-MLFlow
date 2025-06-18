@@ -1,7 +1,3 @@
-**Rainfall-Prediction-Using-Python-MLFlow**, using the filenames for context:
-
----
-
 ## 🌧️ Rainfall Prediction Using Python & MLflow
 
 This project is about predicting rainfall using machine learning in Python. The goal is to build a model that can tell whether it will rain or not based on past weather data.

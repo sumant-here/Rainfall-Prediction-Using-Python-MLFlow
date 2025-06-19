@@ -23,5 +23,3 @@ MLflow is used here to keep track of different model versions, parameters, and a
 
 ---
 
-Feel free to copy this directly or ask me to customize it further for a web app version or add usage instructions!
-
